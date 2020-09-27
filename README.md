@@ -19,3 +19,6 @@ Put training image pairs (Y channel) in the "Train_near" and "Train_far" folders
 #### To test :<br>
 Put test image pairs (Y channel) in the "Test_near" and "Test_far" folders, and run "CUDA_VISIBLE_DEVICES=0 python test.py" to test the trained model.
 You can also directly use the trained model we provide.
+
+#### Restore the output of networks to RGB space :<br>
+Run "main.m" (the second function) to restore the output of networks to RGB color space.
