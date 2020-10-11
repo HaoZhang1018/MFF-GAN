@@ -1,4 +1,4 @@
-# MFF-GAN_Inf2020
+# MFF-GAN
 Code of paper MFF-GAN: An unsupervised generative adversarial network with adaptive and gradient joint constraints for multi-focus image fusion.
 ````
 @article{zhang2020mff,
