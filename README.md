@@ -1,11 +1,13 @@
 # MFF-GAN
 Code of paper MFF-GAN: An unsupervised generative adversarial network with adaptive and gradient joint constraints for multi-focus image fusion.
 ````
-@article{zhang2020mff,
+@article{zhang2021mff,
   title={MFF-GAN: An unsupervised generative adversarial network with adaptive and gradient joint constraints for multi-focus image fusion},
   author={Zhang, Hao and Le, Zhuliang and Shao, Zhenfeng and Xu, Han and Ma, Jiayi},
   journal={Information Fusion},
-  year={2020},
+  volume={66},
+  pages={40--53},
+  year={2021},
   publisher={Elsevier}
 }
 ````
