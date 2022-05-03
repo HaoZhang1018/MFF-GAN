@@ -12,6 +12,7 @@ Code of paper MFF-GAN: An unsupervised generative adversarial network with adapt
 }
 ````
 #### Recommended Environment:<br>
+ - [ ] python = 2.7
  - [ ] tensorflow-gpu = 1.9.0
  - [ ] numpy = 1.15.4
  - [ ] h5py = 2.9.0
