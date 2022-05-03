@@ -11,6 +11,13 @@ Code of paper MFF-GAN: An unsupervised generative adversarial network with adapt
   publisher={Elsevier}
 }
 ````
+#### Recommended Environment:<br>
+ - [ ] tensorflow-gpu = 1.9.0
+ - [ ] numpy = 1.15.4
+ - [ ] h5py = 2.9.0
+ - [ ] scipy = 1.2.0
+ - [ ] opencv = 2.4.11
+ 
 
 #### Prepare data :<br>
 Run "main.m" (the first function) to convert source images from RGB color space to YCbCr.
